@@ -1,9 +1,9 @@
 {
 	"name": "demo",
 	"authors": [
-		"sam"
+		"user"
 	],
 	"description": "A minimal D application.",
-	"copyright": "Copyright © 2017, sam",
+	"copyright": "Copyright © 2017, user",
 	"license": "MIT"
 }
