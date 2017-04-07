@@ -1,0 +1,12 @@
+{
+	"name": "demo",
+	"authors": [
+		"user"
+	],
+	"dependencies": {
+		"gtk-d": "~>3.5.1"
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, user",
+	"license": "MIT"
+}
